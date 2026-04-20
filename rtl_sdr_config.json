@@ -1,0 +1,15 @@
+{
+    "device": "",
+    "devices": {
+        "Nooelec NESDR SMArt v5 [00000001]##0": {
+            "biasT": false,
+            "directSampling": 0,
+            "gain": 6,
+            "offsetTuning": false,
+            "ppm": 0,
+            "rtlAgc": false,
+            "sampleRate": 2400000.0,
+            "tunerAgc": false
+        }
+    }
+}
